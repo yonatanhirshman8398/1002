@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Radio Player</h1>
+      <h1>102fm-radio-player</h1>
       <audio
         ref={audioRef}
         controls
